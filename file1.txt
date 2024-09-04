@@ -1,1 +1,3 @@
 Hello GitHub!
+
+This is text for the Second Commit.
